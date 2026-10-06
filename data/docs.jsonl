@@ -1,0 +1,36 @@
+{"category": "billing", "id": "d01", "text": "How do I update the credit card on my account? Go to Settings, then Billing, and click Update payment method."}
+{"category": "billing", "id": "d02", "text": "I was charged twice this month. Double charges are usually a pending authorization; they clear within 3 business days."}
+{"category": "billing", "id": "d03", "text": "Where can I download my invoices? Invoices are available under Billing History as PDF downloads for the last 24 months."}
+{"category": "billing", "id": "d04", "text": "Do you offer annual billing discounts? Annual plans save 20 percent compared to monthly billing."}
+{"category": "billing", "id": "d05", "text": "My coupon code is not working. Coupons apply only to new subscriptions and cannot be combined with other offers."}
+{"category": "billing", "id": "d06", "text": "How do refunds work? Refunds are issued to the original payment method within 5 to 10 business days of approval."}
+{"category": "account", "id": "d07", "text": "I forgot my password. Use the Forgot password link on the sign-in page to receive a reset email."}
+{"category": "account", "id": "d08", "text": "How do I enable two-factor authentication? Go to Security settings and follow the authenticator app setup."}
+{"category": "account", "id": "d09", "text": "Can I change my username? Usernames can be changed once every 30 days from Profile settings."}
+{"category": "account", "id": "d10", "text": "How do I delete my account? Account deletion is under Settings, Danger Zone, and takes 14 days to complete."}
+{"category": "account", "id": "d11", "text": "Why is my account locked? Accounts lock after 5 failed sign-in attempts; wait 15 minutes or contact support."}
+{"category": "account", "id": "d12", "text": "How do I add team members? Invite teammates from the Team page by email; they receive an invitation link."}
+{"category": "shipping", "id": "d13", "text": "Where is my order? Track your shipment from the Orders page using the tracking number in your confirmation email."}
+{"category": "shipping", "id": "d14", "text": "How long does standard shipping take? Standard shipping takes 5 to 7 business days within the contiguous US."}
+{"category": "shipping", "id": "d15", "text": "Do you ship internationally? We ship to over 40 countries; duties are calculated at checkout."}
+{"category": "shipping", "id": "d16", "text": "My package arrived damaged. Report damage within 7 days with photos for a replacement or refund."}
+{"category": "shipping", "id": "d17", "text": "Can I change my delivery address? Addresses can be changed before the order ships from the Orders page."}
+{"category": "shipping", "id": "d18", "text": "What is express shipping cost? Express 2-day shipping costs a flat 12.99 USD per order."}
+{"category": "technical", "id": "d19", "text": "The app crashes on startup. Clear the app cache or reinstall; ensure your OS meets the minimum version."}
+{"category": "technical", "id": "d20", "text": "How do I export my data? Use Settings, Data, Export to download a CSV or JSON archive of your data."}
+{"category": "technical", "id": "d21", "text": "Is there an API? Yes, REST API documentation is available in the Developer portal with rate limits of 1000 calls per hour."}
+{"category": "technical", "id": "d22", "text": "The dashboard is loading slowly. Try a hard refresh; persistent slowness may indicate a regional outage on the status page."}
+{"category": "technical", "id": "d23", "text": "How do I connect a custom domain? Add a CNAME record pointing to our servers, then verify in Domain settings."}
+{"category": "technical", "id": "d24", "text": "Webhooks are not firing. Check the webhook signing secret and confirm your endpoint returns a 200 within 5 seconds."}
+{"category": "product", "id": "d25", "text": "Wireless noise-cancelling headphones with 30-hour battery life and Bluetooth 5.3 multipoint pairing."}
+{"category": "product", "id": "d26", "text": "Ergonomic mechanical keyboard with hot-swappable switches and per-key RGB lighting."}
+{"category": "product", "id": "d27", "text": "4K webcam with auto-framing, dual noise-reducing microphones, and a privacy shutter."}
+{"category": "product", "id": "d28", "text": "Portable SSD with 2TB capacity, USB-C, and 1050 MB per second read speeds."}
+{"category": "product", "id": "d29", "text": "Smart thermostat that learns your schedule and cuts heating bills by up to 23 percent."}
+{"category": "product", "id": "d30", "text": "Robot vacuum with lidar mapping, self-emptying dock, and multi-floor memory."}
+{"category": "returns", "id": "d31", "text": "What is the return window? Items can be returned within 30 days of delivery for a full refund."}
+{"category": "returns", "id": "d32", "text": "How do I start a return? Start a return from the Orders page and print the prepaid shipping label."}
+{"category": "returns", "id": "d33", "text": "Do return shipping costs apply? Return shipping is free for defective items; otherwise 6.99 USD is deducted."}
+{"category": "returns", "id": "d34", "text": "When will I get my refund? Refunds process within 5 business days after the warehouse receives the item."}
+{"category": "returns", "id": "d35", "text": "Can I exchange an item? Exchanges are handled as a return plus a new order to keep inventory accurate."}
+{"category": "returns", "id": "d36", "text": "What items are final sale? Clearance items marked final sale cannot be returned."}

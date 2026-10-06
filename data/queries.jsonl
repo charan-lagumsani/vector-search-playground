@@ -1,0 +1,8 @@
+{"expected_ids": ["d02"], "query": "charged twice on my credit card"}
+{"expected_ids": ["d03"], "query": "download invoice pdf for last year"}
+{"expected_ids": ["d08"], "query": "set up two factor authentication app"}
+{"expected_ids": ["d10"], "query": "permanently delete my account"}
+{"expected_ids": ["d14", "d18"], "query": "how long does shipping take and express cost"}
+{"expected_ids": ["d21"], "query": "REST API documentation and rate limits"}
+{"expected_ids": ["d25"], "query": "headphones with noise cancelling and long battery"}
+{"expected_ids": ["d31", "d34"], "query": "return window and refund timing"}
